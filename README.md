@@ -1,7 +1,7 @@
 # 🚀 End-to-End DevSecOps Pipeline: Java Boardgame App
 
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
-![K8s Version](https://img.shields.io)
+[![Kubernetes](https://img.shields.io)](https://kubernetes.io)
 [![Docker](https://img.shields.io)](https://www.docker.com)
 [![Security](https://img.shields.io)](https://aquasecurity.github.io)
 
