@@ -1,9 +1,10 @@
 # 🚀 End-to-End DevSecOps Pipeline: Java Boardgame App
 
-[![Jenkins](https://img.shields.io)](https://www.jenkins.io)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
 [![Kubernetes](https://img.shields.io)](https://kubernetes.io)
 [![Docker](https://img.shields.io)](https://www.docker.com)
 [![Security](https://img.shields.io)](https://aquasecurity.github.io)
+
 
 ## 📖 Project Overview
 This repository contains a fully automated, **security-focused CI/CD pipeline** for a Java-based Boardgame application. The project bridges the gap between Development, Security, and Operations by implementing "Security Left" principles and full-stack observability.
